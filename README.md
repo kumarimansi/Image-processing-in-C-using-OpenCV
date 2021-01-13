@@ -1,10 +1,12 @@
 # Image-processing-in-C-using-OpenCV
 
 About the project:
+
 This is a simple image rotation project which rotates the image to a desired angle. It uses
 openCV for accomplishing its objective.
 
-Technology/platform/software used
+Technology/platform/software used:
+
 The program used openCV, c++ and visual code.
 
 OpenCV is an open source computer vision and machine learning software library. OpenCV
